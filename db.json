@@ -10,7 +10,7 @@
    "mediaType":"model/gltf-binary",
    "media":{
       "uri":"https://ipfs.io/ipfs/QmYxCgyZRjbrXbKfqCrhfp3HFcBN31D9yXv2XetH2VBaHb/peg008.glb",
-      "dimensions":null,
+      "dimensions":0,
       "size":337.48,
       "mimeType":"model/gltf-binary"
    },
